@@ -31,7 +31,7 @@ If you made changes to the repository settings, then add it your answers in the 
     1: none desired at this time
 
 Find a fun, cool logo to replace the current one on the main page. Also put a signature at the bottom. 
-    1. Completed.
+    1: Completed.
 
 Merge your changes into the main branch of your repo and add a screenshot of the new main page to output.md.
 
@@ -43,8 +43,8 @@ Merge your changes into the main branch of your repo and add a screenshot of the
         c: sed -i 's/Stan/Chrissie/g' index.html (to replace reference of stan to chrissie)
         d: cd usr/share/nginx/html/
         e: apt install vim
-        f: transfer images from local instance to docker instance via https://docs.docker.com/engine/reference/commandline/cp/
-        g: docker cp ../../cyberchrissie.png robot-shop_web_1:/usr/share/nginx/html/images/cyberchrissie.png
+        f: transferred custom images from local instance to docker instance via https://docs.docker.com/engine/reference/commandline/cp/
+        g: ran command docker cp ../../cyberchrissie.png robot-shop_web_1:/usr/share/nginx/html/images/cyberchrissie.png 
 
 
 <img src="web/static/images/index.png"/>
