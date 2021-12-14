@@ -32,7 +32,7 @@ If you made changes to the repository settings, then add it your answers in the 
 
 Find a fun, cool logo to replace the current one on the main page. Also put a signature at the bottom. 
 
-    1: none desired at this time
+    1: created custom logo for myself titled cyberchrissie.
     
 Merge your changes into the main branch of your repo and add a screenshot of the new main page to output.md.
 
